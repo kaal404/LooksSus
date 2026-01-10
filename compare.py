@@ -1,7 +1,7 @@
 import json
 import subprocess
 
-with open("baseline.json", "r") as f:
+with open("baseline_report.json", "r") as f:
     baseline = json.load(f)
 
 current_ports = subprocess.check_output("netstat -an", shell=True).decode()
