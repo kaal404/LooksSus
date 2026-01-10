@@ -1,0 +1,12 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# System files
+*.swp
+*.DS_Store
+
+# Generated reports
+baseline_report.json
