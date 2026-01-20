@@ -1,4 +1,5 @@
-# Security Baseline Monitoring System
+##LooksSus – A System State Monitoring Project
+
 
 ## Overview
 This project detects security configuration drift in systems by comparing a secure baseline
